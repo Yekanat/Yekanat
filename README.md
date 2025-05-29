@@ -2,7 +2,7 @@
 
 ![Header Animation](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
 
-Hi, I'm **Yekanat**! I'm a developer and problem-solver passionate about technology and creative projects. I enjoy building things and learning about new tools and technologies.
+Hi, I'm **Angelo**! I'm a developer and problem-solver passionate about technology and creative projects. I enjoy building things and learning about new tools and technologies.
 
 ---
 
