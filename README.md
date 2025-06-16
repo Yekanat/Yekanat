@@ -1,6 +1,6 @@
 # Welcome to my Profile! 👾
 
-![Header Animation]([https://tenor.com/it/view/the-office-welcome-dunder-mifflin-to-gif-25279125](https://media1.tenor.com/m/M1a8cbcCmEgAAAAd/the-office-welcome.gif))
+![Header Animation](https://c.tenor.com/M1a8cbcCmEgAAAAd/tenor.gif)
 
 Hi, I'm **Angelo**! I'm a developer and problem-solver passionate about technology and creative projects. I enjoy building things and learning about new tools and technologies.
 
