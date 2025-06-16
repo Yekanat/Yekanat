@@ -1,6 +1,6 @@
 # Welcome to my Profile! 👾
 
-![Header Animation](Readme_assets/welcome.gif)
+![Header Animation](https://github.com/Yekanat/Readme_assets/blob/main/welcome.gif)
 
 Hi, I'm **Angelo**! I'm a developer and problem-solver passionate about technology and creative projects. I enjoy building things and learning about new tools and technologies.
 
