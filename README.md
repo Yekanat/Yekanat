@@ -1,6 +1,6 @@
 # Welcome to my Profile! 👾
 
-![Header Animation](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
+![Header Animation](https://tenor.com/bSepZ.gif)
 
 Hi, I'm **Angelo**! I'm a developer and problem-solver passionate about technology and creative projects. I enjoy building things and learning about new tools and technologies.
 
