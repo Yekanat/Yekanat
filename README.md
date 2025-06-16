@@ -1,6 +1,6 @@
 # Welcome to my Profile! 👾
 
-![Header Animation](https://tenor.com/bSepZ.gif)
+![Header Animation](<div class="tenor-gif-embed" data-postid="25279125" data-share-method="host" data-aspect-ratio="0.975" data-width="100%"><a href="https://tenor.com/view/the-office-welcome-dunder-mifflin-to-gif-25279125">The Office Welcome GIF</a>from <a href="https://tenor.com/search/the+office-gifs">The Office GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)
 
 Hi, I'm **Angelo**! I'm a developer and problem-solver passionate about technology and creative projects. I enjoy building things and learning about new tools and technologies.
 
