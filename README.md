@@ -1,8 +1,18 @@
-# Welcome to my Profile! 👾
+<!-- HEADER ANIMATO -->
+<p align="center">
+  <img src="https://github.com/Yekanat/Readme_assets/blob/main/welcome.gif" alt="header" />
+</p>
 
-![Header Animation](https://github.com/Yekanat/Readme_assets/blob/main/welcome.gif)
+<h1 align="center">Hi 👋, I'm Angelo Thekkanath</h1>
+<p align="center">A passionate student and technology enthusiast from Italy 🇮🇹</p>
 
-Hi, I'm **Angelo**! I'm a developer and problem-solver passionate about technology and creative projects. I enjoy building things and learning about new tools and technologies.
+---
+
+## 👨‍💻 About Me
+- 🤖 Student in Computer Engineering
+- 🚀 Interested in networking, cybersecurity and open source
+- 🧑‍🏫 Tutor and science communicator
+- 💡 Always learning something new!
 
 ---
 
@@ -40,16 +50,10 @@ A library of essential C functions rewritten from scratch. This project is the f
 
 ---
 
-## 🌟 Fun Extras
+## 📫 How to reach me
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yekanat&layout=compact&theme=radical)
-
-![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
-
----
-
-## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/angelo-thekkanath-b2195b273?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSSV8NOsFSRiuEJOHkNQuag%3D%3D)
-- [Email](mailto:athekkan@student.42roma.it)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/angelo-thekkanath-b2195b273)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:angelothekkanath@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Yekanat)
 
 Feel free to explore my repositories and leave a ⭐ if you like what you see!
