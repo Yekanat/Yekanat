@@ -11,10 +11,32 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Computer Engineering student (Italy 🇮🇹)
-- 🔐 Interested in networking, cybersecurity, and open source
-- 🧑‍🏫 Tutor and science communicator
-- 🚀 I enjoy building, debugging, and learning something new every day
+
+Hi, I’m Angelo — a Computer Engineering student from Italy who enjoys systems programming, networking, and cybersecurity. I love building things from the ground up, understanding how they work under the hood, and sharing what I learn.
+
+- Systems‑focused: C/C++ and Python on Linux; comfortable with the terminal, Makefiles, shell scripting, and Docker.
+- Debugging & reliability: GDB and Valgrind; I care about memory safety, correctness, and readable code.
+- Networking & security: curious about protocols, monitoring, and hardening; tools I use include Nmap (and Wireshark) to explore how networks behave and stay secure.
+- Projects I’m proud of:
+  - webserv — a lightweight HTTP server in C/C++.
+  - cub3d — a raycasting 3D engine in C (MiniLibX).
+  - philosophers — concurrency, synchronization, and deadlock avoidance.
+  - push_swap — algorithms and optimization under constraints.
+  - so_long — a 2D game in C using MiniLibX.
+- Community: tutor and science communicator; I value clear documentation and accessible learning.
+- Always learning: operating systems, computer networks, and secure software design.
+
+## 🌟 Hobbies outside of Coding
+
+- 🎮 Gaming — I like strategy and indie titles; I enjoy learning game mechanics and improving decision‑making.
+- 📚 Manga — Storytelling, art, and world‑building inspire me; always on the lookout for new series.
+- 🧩 Modelism (Gunpla) — Building and customizing kits; patience, precision, and attention to detail.
+- 🥋 Judo — Technique, balance, and discipline; I love the focus and continuous improvement mindset.
+- ⚽ Football — Teamwork, endurance, and fun; great way to stay active and clear the mind.
+
+## 🤝 Open To
+
+Definitely open to internships, collaborations, hackathons, tutoring/mentoring, and speaking opportunities.
 
 ---
 
