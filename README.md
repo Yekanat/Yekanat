@@ -17,12 +17,6 @@ Hi, I’m Angelo — a Computer Engineering student from Italy who enjoys system
 - Systems‑focused: C/C++ and Python on Linux; comfortable with the terminal, Makefiles, shell scripting, and Docker.
 - Debugging & reliability: GDB and Valgrind; I care about memory safety, correctness, and readable code.
 - Networking & security: curious about protocols, monitoring, and hardening; tools I use include Nmap (and Wireshark) to explore how networks behave and stay secure.
-- Projects I’m proud of:
-  - webserv — a lightweight HTTP server in C/C++.
-  - cub3d — a raycasting 3D engine in C (MiniLibX).
-  - philosophers — concurrency, synchronization, and deadlock avoidance.
-  - push_swap — algorithms and optimization under constraints.
-  - so_long — a 2D game in C using MiniLibX.
 - Community: tutor and science communicator; I value clear documentation and accessible learning.
 - Always learning: operating systems, computer networks, and secure software design.
 
@@ -34,9 +28,7 @@ Hi, I’m Angelo — a Computer Engineering student from Italy who enjoys system
 - 🥋 Judo — Technique, balance, and discipline; I love the focus and continuous improvement mindset.
 - ⚽ Football — Teamwork, endurance, and fun; great way to stay active and clear the mind.
 
-## 🤝 Open To
-
-Definitely open to internships, collaborations, hackathons, tutoring/mentoring, and speaking opportunities.
+## 🤝 Definitely open to internships, collaborations, hackathons, tutoring/mentoring, and speaking opportunities.
 
 ---
 
@@ -82,19 +74,6 @@ Tip: Pin these repositories on your profile for quick access and visibility.
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation of contributions" width="100%" />
 </p>
-
----
-
-## 🤝 Open To
-- Internships · Collaborations · Hackathons
-- Tutoring/Mentoring · Speaking
-- Any exciting opportunities — definitely open to everything
-
----
-
-## 🎮 Hobbies
-- Gaming · Manga · Modelism (Gunpla)
-- Sports: Judo and Football
 
 ---
 
