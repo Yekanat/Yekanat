@@ -43,12 +43,11 @@
   <pre>
   ╔══════════════════════════════════════════════════════╗
   ║  [ OK ] loading profile .......... ANGELO_THEKKANATH ║
-  ║  [ OK ] environment .... linux | terminal | docker   ║
+  ║  [ OK ] environment .... linux | windows | docker    ║
   ║  [ OK ] modules .... sys_prog, networking, security  ║
   ║  [ OK ] languages ................ C, C++, Python    ║
-  ║  [ OK ] tools .......... git, gdb, valgrind, nmap   ║
+  ║  [ OK ] tools .......... git, gdb, valgrind, nmap    ║
   ║  [ OK ] mode ................... always_learning     ║
-  ║  [ OK ] status ......................... ONLINE ✓    ║
   ╚══════════════════════════════════════════════════════╝
   </pre>
 </details>
