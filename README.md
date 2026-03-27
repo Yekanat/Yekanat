@@ -328,3 +328,10 @@ Hi, I'm Angelo — a Computer Engineering student from Italy who enjoys systems 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2A6D,50:7F5AF0,100:00F5FF&height=150&section=footer&text=SEE%20YOU%20IN%20THE%20MATRIX&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" alt="Cyberpunk footer" />
 </p>
+<!-- ===========================
+      LO-FI MARIO
+=========================== -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yekanat/Readme_assets/main/Lo-fi_Mario.gif" alt="Lo-fi Mario" width="80%" />
+</p>
