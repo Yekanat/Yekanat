@@ -229,10 +229,6 @@ Hi, I'm Angelo — a Computer Engineering student from Italy who enjoys systems 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7F5AF0,100:FF2A6D&height=120&section=header&text=SYSTEM%20TELEMETRY&fontSize=28&fontColor=ffffff" alt="Cyberpunk telemetry banner" />
-</p>
-
-<p align="center">
   <!-- Activity graph (neon colors) -->
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Yekanat&bg_color=0B1220&color=00F5FF&line=FF2A6D&point=7F5AF0&area=true&hide_border=true"
@@ -288,10 +284,6 @@ Hi, I'm Angelo — a Computer Engineering student from Italy who enjoys systems 
 <!-- ✅ Snake from YOUR repo (stable, self-hosted) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Yekanat/Yekanat/output/github-contribution-grid-snake-dark.svg" alt="Snake animation of contributions" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2A6D,50:7F5AF0,100:00F5FF&height=120&section=footer" alt="Cyberpunk footer banner" />
 </p>
 
 <p align="center">
