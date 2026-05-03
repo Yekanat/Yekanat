@@ -235,20 +235,6 @@ Hi, I'm Angelo — a Computer Engineering student from Italy who enjoys systems 
   />
 </p>
 
-<p align="center">
-  <!-- GitHub stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Yekanat&show_icons=true&hide_border=true&title_color=00F5FF&icon_color=FF2A6D&text_color=E6EDF3&ring_color=7F5AF0&bg_color=0B1220&cache_seconds=21600"
-    alt="GitHub stats"
-    height="170"
-  />
-  <!-- Top langs -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yekanat&layout=compact&hide_border=true&title_color=00F5FF&text_color=E6EDF3&bg_color=0B1220&langs_count=10&cache_seconds=21600"
-    alt="Top languages"
-    height="170"
-  />
-</p>
 
 <p align="center">
   <!-- Streak stats -->
